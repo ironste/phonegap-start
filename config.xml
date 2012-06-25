@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.alunny.amazing"
-	version 	= "1.0.0">
+	id		= "com.steno.amazing"
+	version 	= "1.0.1">
 
-	<name>alunnys Amazing App</name>
+	<name>Steno Amazing App</name>
 
 	<description>
-		An Amazing app by alunny
+		An Amazing app from Steno
 	</description>
 
 	<author href="http://alunny.github.com"
